@@ -4,7 +4,7 @@ Created as the final project for my Object-Oriented Programming class at CTU.
 
 The application enables users to perform database queries using relational algebra, making simpler and more straightforward queries. Users have the option to connect to PostgreSQL databases or load CSV files from a chosen folder. The input processing employs polymorphism, abstracting operations like data loading, table creation, and row storage. Query results can be written to new CSV files, benefiting from polymorphism features.
 
-Users can input queries repeatedly and exit as needed, with access to helpful prompts throughout the program. The allowed query syntax can be found in `povolene_dotazy.txt`. Query processing and evaluation utilize a polymorphic parsing tree, which allows constructing a tree with nodes reacting differently to specific methods. The tree facilitates branching and gradual evaluation of queries, all simplified with the use of polymorphism.
+Users can input queries repeatedly and exit as needed, with access to helpful prompts throughout the program. The allowed query syntax can be found in below. Query processing and evaluation utilize a polymorphic parsing tree, which allows constructing a tree with nodes reacting differently to specific methods. The tree facilitates branching and gradual evaluation of queries, all simplified with the use of polymorphism.
 
 Polymorphism is harnessed for various connection types (natural join, generic join), complex queries, and set operations (union, intersection). Query results can be stored and used in subsequent queries.
 
