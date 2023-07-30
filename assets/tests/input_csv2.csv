@@ -1,0 +1,1001 @@
+id,country,city,country code
+100,Fiji,Porto,FI
+101,Panama,Brisbane,HU
+102,Nauru,Oranjestad,MV
+103,Syrian Arab Republic,San Carlos de Bariloche,HT
+104,Yemen,La Paz,US
+105,Cyprus,Havana,MK
+106,Belgium,St. George's,SH
+107,"Tanzania, United Republic of",Ouagadougou,TM
+108,Anguilla,Port Said,SV
+109,Gabon,Adak,GE
+110,Djibouti,Tampere,VC
+111,Somalia,Thessaloniki,TL
+112,Brunei Darussalam,Valencia,LV
+113,Solomon Islands,Gaza,EE
+114,Guadeloupe,Copenhagen,MR
+115,Belgium,San Fernando,TW
+116,United Arab Emirates,Hong Kong,GE
+117,Nauru,Algiers,DE
+118,Bangladesh,Casablanca,TD
+119,Uganda,Berlin,UM
+120,Luxembourg,Maracaibo,AS
+121,Bouvet Island,Veracruz,GI
+122,Czech Republic,Niamey,GB
+123,Czech Republic,Ottawa,BT
+124,Australia,Cape Town,GM
+125,Malawi,Suez,PE
+126,El Salvador,Adak,HM
+127,Colombia,Saint Petersburg,MQ
+128,Nauru,Dubai,IT
+129,Tonga,N'Djamena,TJ
+130,Colombia,Yakutsk,BD
+131,Lebanon,Baltimore,KW
+132,Saint Pierre and Miquelon,Leipzig,SV
+133,Heard Island and Mcdonald Islands,Bogotá,KP
+134,Ghana,Chicago,SD
+135,El Salvador,Lanzhou,DO
+136,French Southern Territories,Da Nang,PE
+137,American Samoa,Adana,AO
+138,Bahamas,Indianapolis,BM
+139,United Kingdom,Cincinnati,PT
+140,Hungary,Incheon,BZ
+141,Tuvalu,Port Vila,CG
+142,Canada,Bamako,MD
+143,Gabon,Vaduz,CU
+144,Antigua and Barbuda,Luxembourg (city),NI
+145,Botswana,Charlotte Amalie,GP
+146,Cook Islands,Hobart,CA
+147,Poland,Manaus,ZA
+148,Cambodia,Yaren District,MD
+149,Slovakia,Murmansk,VU
+150,Cameroon,Saint-Denis,LK
+151,American Samoa,Serekunda,JE
+152,Sierra Leone,Ponta Delgada,CO
+153,Sierra Leone,Monaco,MX
+154,Germany,Kansas City,VE
+155,Palau,Budapest,ER
+156,Ghana,Tripoli,GP
+157,Trinidad and Tobago,Marrakech,QA
+158,Italy,Riga,SE
+159,Turkmenistan,San Diego,DK
+160,"Tanzania, United Republic of",Punta Arenas,EH
+161,Cayman Islands,Port Blair,BA
+162,Burkina Faso,Stockholm,GH
+163,Guatemala,Sacramento,SB
+164,Saint Vincent and the Grenadines,Cotonou,BJ
+165,Germany,Brazzaville,IQ
+166,Uruguay,Brasília,BA
+167,Vanuatu,Newcastle,CA
+168,Norway,Bilbao,KH
+169,Cape Verde,Guwahati,CD
+170,Germany,Weno,LS
+171,French Guiana,Nanning,MV
+172,Marshall Islands,Gaza,PR
+173,Sierra Leone,Taichung,IS
+174,Malta,Lilongwe,IT
+175,Ireland,Perth,BA
+176,Somalia,Hanoi,SK
+177,Cuba,Darwin,MK
+178,Peru,Nassau,MQ
+179,Holy See (Vatican City State),Pattaya,GH
+180,"Tanzania, United Republic of",Ibiza,ID
+181,Cayman Islands,Changchun,SY
+182,Libyan Arab Jamahiriya,Minneapolis,TR
+183,Chile,Jamestown,SO
+184,Martinique,Cartagena,CI
+185,Myanmar,Johor Bahru,MV
+186,Tunisia,Medina,BW
+187,Senegal,Karachi,SO
+188,Mali,Kyoto,AI
+189,Monaco,Malmö,KP
+190,Faroe Islands,Udon Thani,IM
+191,Anguilla,Amritsar,MC
+192,Chile,Tskhinvali,AQ
+193,Sierra Leone,Montreal,PY
+194,Viet Nam,Yakutsk,BR
+195,Northern Mariana Islands,Madrid,LT
+196,Afghanistan,Chittagong,PW
+197,Guadeloupe,Bulawayo,US
+198,South Africa,Seville,GD
+199,Iraq,Tucson,DZ
+200,South Africa,Tallinn,LY
+201,French Guiana,Birkirkara,AI
+202,Pakistan,Jayapura,GE
+203,Samoa,Birkirkara,NR
+204,Niue,Alexandria,BO
+205,Gabon,South Tarawa,AS
+206,Seychelles,Asmara,KN
+207,Thailand,Dededo,BD
+208,Senegal,La Serena,GM
+209,Bouvet Island,Bloemfontein,DZ
+210,Gibraltar,Budapest,VE
+211,Gibraltar,Thiès,BF
+212,Wallis and Futuna,Manila,BD
+213,Malta,Guadalajara,EC
+214,Qatar,Tehran,RE
+215,Bulgaria,Córdoba,MR
+216,Cambodia,Iloilo City,SR
+217,Wallis and Futuna,Bangui,TH
+218,Russian Federation,Bangui,FI
+219,United Kingdom,Kaohsiung,TR
+220,United Arab Emirates,Aarhus,LU
+221,Spain,Luxor,NL
+222,Chile,Lyon,IM
+223,Norfolk Island,Quebec City,PL
+224,United Arab Emirates,Maputo,PR
+225,South Africa,Kandahar,GQ
+226,Syrian Arab Republic,Luanda,CZ
+227,"Taiwan, Province of China",Nashville,TG
+228,Albania,Oslo,BF
+229,"Moldova, Republic of",Perm,US
+230,Bulgaria,Port Vila,CZ
+231,Aruba,Milan,CY
+232,Qatar,São José dos Campos,MC
+233,Gibraltar,Kunming,CM
+234,Mozambique,Kawasaki,BA
+235,Kyrgyzstan,Rabi Island,CG
+236,Samoa,Concepción,UA
+237,"Macedonia, The Former Yugoslav Republic of",Wichita,KZ
+238,"Macedonia, The Former Yugoslav Republic of",Shenyang,SH
+239,Tuvalu,George Town,BJ
+240,Antarctica,Kaliningrad,LA
+241,Somalia,San Antonio,MT
+242,Ireland,Mumbai,CI
+243,Ecuador,Chaguanas,NA
+244,French Southern Territories,Barranquilla,CL
+245,Angola,Manchester,TM
+246,Tuvalu,Fukuoka,AX
+247,Saint Vincent and the Grenadines,Assis,WF
+248,Latvia,Vitória,AQ
+249,Tokelau,Hyderabad,GU
+250,Tuvalu,Maputo,CL
+251,Saint Vincent and the Grenadines,Andorra la Vella,NL
+252,"Korea, Democratic People""S Republic of",Mexico City,MP
+253,Hong Kong,Malmö,CZ
+254,Samoa,Saskatoon,BT
+255,Mauritius,Pyongyang,AF
+256,Georgia,Mogadishu,YT
+257,Switzerland,Shenyang,NP
+258,Algeria,Fortaleza,SG
+259,Gibraltar,Udon Thani,SC
+260,Congo,Nouméa,CO
+261,Liechtenstein,Hyderabad,UZ
+262,Central African Republic,Abidjan,IL
+263,Anguilla,Shenzhen,TR
+264,Turkmenistan,Ndola,AR
+265,Sao Tome and Principe,Bogor,CO
+266,Niger,Los Angeles,AZ
+267,Martinique,Tunis,KZ
+268,Maldives,Birmingham,VI
+269,Mozambique,Split (city),MO
+270,United Kingdom,Gangtok,TG
+271,Cameroon,Bergen,ZM
+272,Kuwait,Medan,ZM
+273,Gambia,Perm,NC
+274,Madagascar,Podgorica,CG
+275,Svalbard and Jan Mayen,Campo Grande,NE
+276,United States,Maseru,KY
+277,Nigeria,Abuja,CC
+278,Cyprus,Ipoh,GS
+279,Portugal,Quetzaltenango,MX
+280,El Salvador,Hargeisa,LT
+281,Lesotho,Hanga Roa,MY
+282,Saint Kitts and Nevis,Vancouver,IM
+283,Netherlands,Pyongyang,TV
+284,Eritrea,Malmö,NU
+285,South Georgia and the South Sandwich Islands,Roseau,BE
+286,Mali,Kingstown,TG
+287,Falkland Islands (Malvinas),Nukus,PY
+288,El Salvador,Handan,BT
+289,Samoa,Chittagong,AL
+290,Montserrat,Vaduz,GG
+291,Monaco,Mexicali,BA
+292,Albania,Guwahati,JM
+293,Honduras,Khartoum,SG
+294,Dominican Republic,Winnipeg,HR
+295,Ukraine,Blantyre,RW
+296,Cape Verde,Munich,VN
+297,Bhutan,Liverpool,GI
+298,Romania,Detroit,AG
+299,Guernsey,Puerto Williams,FR
+300,Venezuela,Murmansk,WS
+301,Pitcairn,Baku,LS
+302,Slovenia,Lviv,CD
+303,Israel,Kuala Lumpur,ZA
+304,Tuvalu,Tirana,BM
+305,Italy,Pune,VC
+306,Albania,Calgary,PK
+307,Ghana,Incheon,HK
+308,"Lao People""S Democratic Republic",San Antonio,MS
+309,Uruguay,Mamoudzou,AZ
+310,Spain,Avarua,GP
+311,Burkina Faso,Huế,MX
+312,Bouvet Island,Guangzhou,CM
+313,Tokelau,Turin,TL
+314,New Caledonia,N'Djamena,KN
+315,Cyprus,Miami,LC
+316,Belgium,Guwahati,HK
+317,Grenada,Daegu,TV
+318,Brunei Darussalam,Tampere,NL
+319,Thailand,Taiyuan,MT
+320,Liechtenstein,Nicosia,GL
+321,Vanuatu,Graz,IL
+322,United Kingdom,Suva,IQ
+323,"Micronesia, Federated States of",Odessa,TD
+324,United Arab Emirates,City of Halifax,SJ
+325,Malaysia,Hangzhou,MD
+326,Colombia,Lusaka,CS
+327,Gibraltar,Buffalo,DK
+328,Chad,Nairobi,WF
+329,Timor-Leste,Las Palmas de Gran Canaria,PY
+330,Anguilla,Lomé,SD
+331,"Cote D""Ivoire",Cleveland,BD
+332,Turkmenistan,La Paz,BT
+333,"Micronesia, Federated States of",Tampa,BF
+334,Serbia and Montenegro,Auckland,MK
+335,Serbia and Montenegro,Abu Dhabi,GH
+336,Saint Vincent and the Grenadines,Omsk,VN
+337,Azerbaijan,Boa Vista,EE
+338,Nepal,Medina,PG
+339,Slovenia,Melekeok,LR
+340,Sudan,Toulouse,ER
+341,Czech Republic,Las Palmas de Gran Canaria,CU
+342,Eritrea,Djibouti (city),LC
+343,Congo,Rabi Island,BT
+344,Madagascar,Saint John,KR
+345,Guam,Tamale,EC
+346,Holy See (Vatican City State),Davao City,MC
+347,Yemen,Pittsburgh,PE
+348,"Micronesia, Federated States of",Mashhad,PW
+349,Kiribati,Manila,VC
+350,Estonia,Bridgetown,RO
+351,"Cote D""Ivoire",Caracas,BB
+352,Djibouti,Las Palmas de Gran Canaria,GL
+353,Bangladesh,Jakarta,MM
+354,Tuvalu,Andorra la Vella,RW
+355,Austria,Pattaya,GF
+356,Mayotte,Málaga,NO
+357,Vanuatu,Honiara,KM
+358,Guadeloupe,Port Vila,HU
+359,Netherlands Antilles,New York City,SE
+360,Viet Nam,Maracaibo,LI
+361,South Georgia and the South Sandwich Islands,Saint John,PT
+362,Syrian Arab Republic,Hamilton,EC
+363,Belize,Nouméa,BA
+364,Albania,Macau,PT
+365,Australia,Lviv,SR
+366,Cameroon,Havana,CR
+367,Philippines,Road Town,BT
+368,Fiji,Vitória,CF
+369,Yemen,Yaren District,CR
+370,Ecuador,Alor Star,TH
+371,Poland,Melbourne,KY
+372,Saint Lucia,Bangkok,AM
+373,Seychelles,Nukus,IR
+374,Lebanon,Madrid,MZ
+375,Cocos (Keeling) Islands,Palembang,FR
+376,Thailand,Kaohsiung,OM
+377,Mexico,Road Town,PF
+378,Viet Nam,Punta Arenas,AL
+379,Ghana,Birmingham,OM
+380,Venezuela,Guangzhou,HT
+381,Paraguay,Nakhon Ratchasima,KH
+382,Fiji,Dededo,GF
+383,Poland,Castries,SR
+384,"Micronesia, Federated States of",Palembang,GE
+385,Fiji,Hong Kong,MH
+386,Morocco,Glasgow,NL
+387,Bahamas,Amritsar,CV
+388,Marshall Islands,Cologne,GL
+389,Venezuela,Asunción,EC
+390,Bouvet Island,Chişinău,AX
+391,Suriname,Beijing,FR
+392,Iraq,Bandung,CA
+393,Lebanon,Moscow,CL
+394,New Zealand,Lobamba,AF
+395,Spain,Nashville,MN
+396,Turkey,Padang,IQ
+397,"Cote D""Ivoire",Chongjin,NO
+398,Swaziland,Valletta,PK
+399,Tokelau,Santa Cruz de la Sierra,PM
+400,Armenia,Mérida,NO
+401,American Samoa,Perth,JP
+402,Libyan Arab Jamahiriya,Belgrade,YT
+403,Lithuania,Kota Bharu,DZ
+404,Egypt,Valletta,WS
+405,Nicaragua,Kinshasa,BG
+406,Bosnia and Herzegovina,Dakar,VI
+407,Tokelau,Rome,ZM
+408,Mozambique,Pelotas,FK
+409,Bulgaria,Karachi,BI
+410,Venezuela,Mersin,HR
+411,Guinea,Milwaukee,SC
+412,Ukraine,Naypyidaw,MT
+413,Belgium,Kuala Lumpur,ES
+414,Isle of Man,Quebec City,WS
+415,Ghana,Dibrugarh,KH
+416,Switzerland,Jayapura,MS
+417,Aruba,Bahía Blanca,QA
+418,Reunion,Seattle,JO
+419,Liberia,Tampere,MX
+420,Philippines,Lisbon,AU
+421,Haiti,Port Blair,AZ
+422,Singapore,Hyderabad,PA
+423,Suriname,Praia,CM
+424,Venezuela,Tagbilaran,ZM
+425,Mexico,Asunción,GP
+426,Paraguay,Phoenix,LK
+427,Bosnia and Herzegovina,Hiroshima,BE
+428,Croatia,Shenyang,GD
+429,"Moldova, Republic of",Guangzhou,BY
+430,Afghanistan,Campinas,CR
+431,El Salvador,Odessa,BN
+432,Dominica,Nantes,IR
+433,Puerto Rico,Ho Chi Minh City,GA
+434,Azerbaijan,Porto Alegre,KG
+435,Martinique,Balikpapan,MZ
+436,Belarus,Campo Grande,RW
+437,Ukraine,Tianjin,IS
+438,Nicaragua,Lhasa,WF
+439,Sierra Leone,Brussels,TV
+440,Oman,Kota Bharu,IQ
+441,Barbados,Nizhny Novgorod,AL
+442,Uganda,Saskatoon,GQ
+443,Faroe Islands,Bern,LC
+444,Portugal,Manila,VA
+445,South Africa,Split (city),SL
+446,Papua New Guinea,Lhasa,TG
+447,San Marino,N'Djamena,TJ
+448,India,Tabriz,TN
+449,Syrian Arab Republic,Santa Cruz de Tenerife,ET
+450,Sao Tome and Principe,Dodoma,NU
+451,Poland,Hat Yai,KY
+452,Thailand,Niamey,YT
+453,Philippines,Anchorage,SG
+454,Guatemala,Chongjin,BG
+455,Christmas Island,Panama City,LB
+456,"Virgin Islands, British",Riverside,GL
+457,Kiribati,Stanley,AW
+458,Zambia,Bursa,IE
+459,Germany,Abidjan,MH
+460,Honduras,Bloemfontein,BZ
+461,Central African Republic,Guwahati,MG
+462,New Caledonia,Bujumbura,BH
+463,Solomon Islands,Oklahoma City,MO
+464,"Iran, Islamic Republic Of",Juneau,CU
+465,Cook Islands,Ushuaia,JO
+466,United Kingdom,Quebec City,CU
+467,Uganda,Santiago,BE
+468,Faroe Islands,Split (city),MW
+469,Kuwait,Canberra,JM
+470,Albania,Stuttgart,CV
+471,Tunisia,Mogadishu,VE
+472,Ireland,Nagpur,AW
+473,"Moldova, Republic of",Sarajevo,GA
+474,Liberia,The Valley,CL
+475,Italy,Ambon,SJ
+476,Djibouti,Vientiane,IL
+477,Sweden,Sarajevo,MZ
+478,Heard Island and Mcdonald Islands,Melekeok,SY
+479,Bahamas,Taipei,KN
+480,Guyana,Lviv,PL
+481,Guernsey,Fort-de-France,TJ
+482,Ireland,Christchurch,SO
+483,Nepal,Gdańsk,CV
+484,Barbados,Cologne,HT
+485,Somalia,Paris,NG
+486,Saint Kitts and Nevis,Honiara,ET
+487,Jordan,Nukuʻalofa,YE
+488,France,Mogadishu,GE
+489,Guatemala,Phoenix,CK
+490,Denmark,Budapest,GB
+491,Italy,Papeete,TM
+492,Burundi,Miri,MK
+493,Marshall Islands,Palma,LU
+494,Zambia,Santiago,PH
+495,Georgia,Las Palmas de Gran Canaria,MA
+496,Albania,Douala,GD
+497,Kazakhstan,Istanbul,LB
+498,"Cote D""Ivoire",Buenos Aires,FK
+499,Falkland Islands (Malvinas),Miri,AI
+500,Vanuatu,Weno,GW
+501,Martinique,Prague,BF
+502,Morocco,Andorra la Vella,BW
+503,Uruguay,Cape Town,MM
+504,French Guiana,Pittsburgh,SN
+505,Tonga,Kingston,UA
+506,Morocco,Malabo,MN
+507,Wallis and Futuna,Rawalpindi,TM
+508,Ghana,Louisville,PR
+509,Iceland,Brazzaville,BM
+510,Honduras,Hanover,JE
+511,Mexico,Cockburn Town,PE
+512,Brazil,Saint Petersburg,KG
+513,Guyana,Istanbul,MZ
+514,Lesotho,Brazzaville,SO
+515,French Guiana,Chihuahua,BM
+516,Myanmar,Shillong,BM
+517,Congo,Philadelphia,CV
+518,Cayman Islands,Gold Coast,KE
+519,Samoa,Leeds,MZ
+520,Germany,Horta (Azores),IQ
+521,Greece,Anchorage,TH
+522,Benin,Reykjavík,BY
+523,India,Medan,SK
+524,Portugal,Timbuktu,DZ
+525,Tuvalu,Mérida,SA
+526,Falkland Islands (Malvinas),Johor Bahru,EH
+527,Finland,Jamestown,PN
+528,Swaziland,Wellington,KG
+529,Malta,Cuiabá,IS
+530,"Iran, Islamic Republic Of",Chuí,BT
+531,RWANDA,Guatemala City,CC
+532,Suriname,Valparaíso,SR
+533,Mozambique,Baku,IR
+534,Romania,Ciudad del Este,PA
+535,Zambia,Taipei,MU
+536,Turks and Caicos Islands,Belgrade,ET
+537,Macao,Bandung,SH
+538,Wallis and Futuna,Nairobi,BR
+539,Albania,Pristina,GF
+540,Turkey,Douglas,KH
+541,United States,Virginia Beach,SY
+542,Egypt,Johor Bahru,DM
+543,Gambia,Samara,HN
+544,Switzerland,Canberra,GB
+545,Timor-Leste,Palembang,DZ
+546,Seychelles,Xi'an,AU
+547,Canada,Amsterdam,ZW
+548,China,Maseru,GF
+549,Saudi Arabia,Port of Spain,AQ
+550,Liechtenstein,Perth,SL
+551,Cameroon,Hanover,MO
+552,Sierra Leone,Makassar,AM
+553,Jamaica,Macapá,VG
+554,Equatorial Guinea,Denver,GH
+555,Bouvet Island,Karachi,BM
+556,Guinea-Bissau,Leeds,TG
+557,Portugal,Linz,AI
+558,Estonia,Dongguan,TJ
+559,Chile,Brazzaville,FM
+560,Grenada,Tbilisi,BH
+561,Palau,Auckland,NZ
+562,Vanuatu,Whitehorse,SC
+563,"Korea, Democratic People""S Republic of",Cannes,CI
+564,United States Minor Outlying Islands,Antananarivo,KZ
+565,Zimbabwe,Douala,SZ
+566,Mayotte,Valencia,AT
+567,Mexico,Istanbul,SB
+568,Haiti,Madrid,CX
+569,Congo,Port-au-Prince,FO
+570,Slovenia,Cartagena,KM
+571,Chad,Luxembourg (city),SM
+572,Zambia,Konya,GA
+573,India,Belém,BB
+574,Haiti,San Diego,UA
+575,Niger,Melekeok,AO
+576,Papua New Guinea,El Aaiún,LI
+577,French Southern Territories,Innsbruck,DK
+578,"Cote D""Ivoire",Jinan,KZ
+579,Botswana,Thessaloniki,IT
+580,"Congo, The Democratic Republic of the",Accra,CK
+581,British Indian Ocean Territory,Vitória,ER
+582,Isle of Man,Chihuahua,VA
+583,Solomon Islands,Ashgabat,NA
+584,Sao Tome and Principe,Port Moresby,MW
+585,Lesotho,Muscat,AN
+586,Serbia and Montenegro,The Hague,AS
+587,Uzbekistan,Santiago,DJ
+588,Grenada,Hong Kong,PL
+589,Iraq,Qingdao,HR
+590,Chile,The Valley,PN
+591,United Arab Emirates,Milwaukee,IN
+592,Haiti,Fredericton,BO
+593,French Polynesia,Nukuʻalofa,NR
+594,Mexico,Ürümqi,SA
+595,French Polynesia,Medan,ET
+596,Switzerland,Amsterdam,LV
+597,Liechtenstein,Dodoma,BR
+598,AndorrA,Doha,MQ
+599,Macao,Kuching,UZ
+600,Guyana,Lubumbashi,RO
+601,Morocco,Tripoli,BH
+602,Bermuda,Tartu,ES
+603,Solomon Islands,Baku,ZW
+604,Mozambique,Cannes,PE
+605,Samoa,Ludhiana,IM
+606,Palau,San Carlos de Bariloche,TN
+607,Switzerland,Jamestown,RO
+608,Norway,Cockburn Town,UA
+609,Bahamas,Adamstown,LR
+610,Saint Helena,Reykjavík,CN
+611,Guyana,Forked River,UM
+612,"Iran, Islamic Republic Of",Pune,PN
+613,Costa Rica,Kaesong,AU
+614,"Cote D""Ivoire",Majuro,MA
+615,Heard Island and Mcdonald Islands,Alexandria,DE
+616,Slovenia,Belém,AD
+617,United States,Port Moresby,DO
+618,French Southern Territories,Daegu,CF
+619,Brunei Darussalam,Iqaluit,LR
+620,Lithuania,Dar es Salaam,ST
+621,China,Rabi Island,RE
+622,Solomon Islands,Guadalajara,TM
+623,Antarctica,Kano,GP
+624,Sri Lanka,Kuala Lumpur,GI
+625,Swaziland,Muscat,ZW
+626,Singapore,Gibraltar,PT
+627,Aruba,Chicago,KE
+628,Bermuda,Tamale,LA
+629,Congo,Gaza,LR
+630,Heard Island and Mcdonald Islands,Okinawa,UA
+631,Spain,Leeds,AR
+632,Gambia,Asmara,AW
+633,Azerbaijan,Tampere,ET
+634,Latvia,Chihuahua,SG
+635,Timor-Leste,Gold Coast,GP
+636,Netherlands Antilles,Macau,IL
+637,Marshall Islands,Puebla,TF
+638,"Korea, Democratic People""S Republic of",Chittagong,BA
+639,Italy,Gaborone,ZW
+640,Antarctica,Phnom Penh,MA
+641,Zambia,Hong Kong,KI
+642,Northern Mariana Islands,Anchorage,PG
+643,Solomon Islands,Leeds,BS
+644,Niue,Brasília,NU
+645,Turkey,Ushuaia,IO
+646,Sudan,Zagreb,AF
+647,United Kingdom,Ciudad del Este,MP
+648,Croatia,St. John's,IR
+649,Burundi,Kota Kinabalu,BE
+650,Somalia,Phnom Penh,CX
+651,United Kingdom,Hiroshima,CC
+652,Greenland,Calgary,CY
+653,Northern Mariana Islands,Wonsan,EH
+654,Portugal,Hong Kong,HN
+655,Indonesia,Marseille,SA
+656,Jersey,Port Said,CV
+657,Czech Republic,Campinas,UA
+658,"Lao People""S Democratic Republic",Wollongong,CL
+659,Ukraine,Recife,MP
+660,Afghanistan,Kraków,GU
+661,Bouvet Island,Guatemala City,AX
+662,Nigeria,El Paso,MQ
+663,Belgium,Road Town,OM
+664,Armenia,Seville,PA
+665,"Micronesia, Federated States of",Harbin,LA
+666,Gabon,Guangzhou,SB
+667,Northern Mariana Islands,Mersin,BE
+668,Turkmenistan,Kaliningrad,KN
+669,Guatemala,Mata-Utu,LY
+670,Syrian Arab Republic,El Aaiún,AW
+671,Switzerland,Bilbao,CH
+672,Ghana,Tiraspol,IQ
+673,Qatar,Melbourne,FR
+674,Sudan,Port-au-Prince,GE
+675,Cameroon,Rawalpindi,KR
+676,Monaco,Punta Arenas,CF
+677,Antarctica,Split (city),TR
+678,Mauritania,Wuhan,GY
+679,Tuvalu,Nakhon Ratchasima,FJ
+680,New Caledonia,Bangalore,BS
+681,Uzbekistan,Rochester,AU
+682,Syrian Arab Republic,Nassau,RW
+683,Colombia,Bridgetown,MY
+684,France,Medan,JP
+685,Isle of Man,Quezon City,AR
+686,Lithuania,Livingstone,CR
+687,Tonga,Stanley,KZ
+688,Haiti,Macau,CH
+689,Norway,Djibouti (city),AU
+690,United Kingdom,Johor Bahru,PE
+691,Finland,Gaborone,ZM
+692,Hong Kong,Xi'an,PE
+693,Denmark,Antwerp,EG
+694,Greenland,Pelotas,PR
+695,Kyrgyzstan,Kuwait City,VE
+696,Grenada,Mogadishu,SY
+697,Chile,Niamey,SK
+698,Slovakia,Oslo,IO
+699,Norfolk Island,Banda Aceh,AX
+700,Saint Pierre and Miquelon,Brussels,VI
+701,Mongolia,Shijiazhuang,SC
+702,French Southern Territories,Nairobi,TL
+703,Bangladesh,Tel Aviv,MZ
+704,British Indian Ocean Territory,Marrakech,ZM
+705,New Caledonia,Campo Grande,MU
+706,Saint Lucia,Pyongyang,WS
+707,Malta,Melbourne,BS
+708,Algeria,Vitória,FM
+709,Singapore,Linz,AX
+710,Philippines,Jaipur,SC
+711,"Korea, Republic of",Pago Pago,CK
+712,Eritrea,Strasbourg,IT
+713,Vanuatu,Labasa,EG
+714,Belgium,Saint-Pierre,DO
+715,Cook Islands,Managua,MQ
+716,Chad,Malmö,PA
+717,AndorrA,Hanga Roa,NE
+718,Paraguay,Nouakchott,VU
+719,Libyan Arab Jamahiriya,Albuquerque,KG
+720,Guinea-Bissau,Asmara,GB
+721,Western Sahara,Valencia,SV
+722,Chile,Kathmandu,PK
+723,Samoa,Campinas,MD
+724,Jordan,Kaliningrad,NC
+725,Western Sahara,Malmö,BI
+726,Algeria,Stockholm,SZ
+727,Guinea,Jaipur,LR
+728,Kazakhstan,Baltimore,KM
+729,Sweden,Vaduz,GU
+730,Thailand,Stanley,TV
+731,Namibia,Leeds,BO
+732,Azerbaijan,Wonsan,IQ
+733,Malawi,Munich,AT
+734,Kiribati,Majuro,KI
+735,Argentina,Gibraltar,CS
+736,Chile,Xining,PW
+737,Guadeloupe,Bogor,OM
+738,Honduras,Castries,GS
+739,Philippines,Astana,YE
+740,Nicaragua,Santiago de Cuba,NU
+741,Togo,Oslo,MH
+742,Romania,Yamoussoukro,LU
+743,Venezuela,Toulouse,HK
+744,Antigua and Barbuda,Horta (Azores),MT
+745,United Kingdom,San José,TG
+746,Croatia,Kathmandu,FR
+747,Norway,Oranjestad,UA
+748,Nauru,Manchester,NA
+749,Papua New Guinea,Padang,EH
+750,Azerbaijan,São Tomé,SI
+751,Kenya,Semarang,TV
+752,Ethiopia,Kolkata,AD
+753,Trinidad and Tobago,Dublin,LR
+754,Japan,Hiroshima,TF
+755,"Virgin Islands, U.S.",Dodoma,AR
+756,Mexico,Greenwich,ML
+757,Mayotte,Leeds,TZ
+758,Slovakia,N'Djamena,RO
+759,Heard Island and Mcdonald Islands,Recife,ZA
+760,Australia,Seattle,AE
+761,Poland,Denver,BA
+762,Tunisia,Jaipur,MA
+763,Thailand,Maceió,FO
+764,Singapore,Cebu City,EC
+765,Luxembourg,Handan,PG
+766,Papua New Guinea,Budapest,KE
+767,Nigeria,Calgary,IQ
+768,Holy See (Vatican City State),Wonsan,CV
+769,Montserrat,Huế,EH
+770,American Samoa,Apia,BI
+771,Djibouti,Tartu,BV
+772,RWANDA,Mogadishu,MR
+773,"Macedonia, The Former Yugoslav Republic of",Porto Velho,PH
+774,Ukraine,Graz,BD
+775,Eritrea,Minsk,BN
+776,Anguilla,Tartu,IS
+777,Bermuda,Cayenne,SI
+778,Bouvet Island,Chongjin,CI
+779,Ghana,Pago Pago,WF
+780,Senegal,Macapá,GT
+781,Saint Pierre and Miquelon,Tokyo,ZM
+782,Palau,Gaborone,IE
+783,Holy See (Vatican City State),Concepción,GB
+784,Suriname,Semarang,UZ
+785,Ethiopia,Addis Ababa,QA
+786,Belize,Taiyuan,SB
+787,Ecuador,Yokohama,MA
+788,Netherlands Antilles,Valdivia,VN
+789,Estonia,Pretoria,PR
+790,Indonesia,Papeete,UM
+791,Israel,Kingstown,SM
+792,Liberia,Castries,GM
+793,Guadeloupe,Lusaka,PW
+794,Kazakhstan,Hat Yai,KN
+795,Madagascar,Enugu,TT
+796,India,Macau,BG
+797,Comoros,Apia,MQ
+798,Cocos (Keeling) Islands,Denver,RW
+799,"Lao People""S Democratic Republic",Simferopol,PH
+800,Mauritius,Córdoba,GF
+801,Djibouti,Libreville,CD
+802,Saint Helena,Gaborone,PT
+803,Costa Rica,Casablanca,GY
+804,Libyan Arab Jamahiriya,Astana,LU
+805,Cape Verde,Fort-de-France,CU
+806,Kazakhstan,Maracaibo,BS
+807,Qatar,Nanning,HM
+808,"Lao People""S Democratic Republic",Hilo,MZ
+809,Chad,City of San Marino,EE
+810,Estonia,Lilongwe,GM
+811,Turkmenistan,Quito,EH
+812,Brunei Darussalam,Tórshavn,RU
+813,French Southern Territories,Chuí,VE
+814,Germany,London,IS
+815,Portugal,Rabi Island,MS
+816,Guyana,Basse-Terre,VU
+817,El Salvador,Hobart,MP
+818,Belarus,Norilsk,LI
+819,Guam,Pyongyang,GY
+820,Swaziland,Kanpur,MM
+821,Equatorial Guinea,Pelotas,PK
+822,Bermuda,Handan,MH
+823,Honduras,Malabo,NO
+824,Samoa,Sitka,AZ
+825,Guinea,Sukhumi,TM
+826,Myanmar,Mwanza,YT
+827,Benin,Kharkiv,JP
+828,Algeria,Las Vegas,CI
+829,Equatorial Guinea,Oslo,ID
+830,Mauritania,Chicago,BT
+831,Mexico,Jakarta,NU
+832,Bermuda,Rome,ZM
+833,Dominican Republic,New Orleans,PH
+834,Netherlands Antilles,Chuí,LS
+835,"Cote D""Ivoire",Hanover,KW
+836,Turks and Caicos Islands,Moroni,AL
+837,Estonia,Srinagar,UY
+838,Philippines,Surat,LS
+839,Chile,Valencia,ZW
+840,French Guiana,Managua,VG
+841,Sierra Leone,Seattle,SE
+842,Saudi Arabia,Pattaya,GP
+843,Hungary,Islamabad,SC
+844,French Southern Territories,Chengdu,UY
+845,Saint Helena,Djibouti (city),PF
+846,"Palestinian Territory, Occupied",Barcelona,UA
+847,Malta,Vientiane,NE
+848,Kazakhstan,Suva,PY
+849,Mozambique,Edmonton,SG
+850,Saint Lucia,Okinawa,MA
+851,Portugal,Regina,VC
+852,Burkina Faso,Malang,IS
+853,Malawi,Birmingham,BR
+854,Sierra Leone,Murmansk,AQ
+855,Togo,Guadalajara,LU
+856,Malawi,Tunis,MN
+857,Guyana,Sana'a,BZ
+858,Iceland,Gaborone,JE
+859,Guatemala,Chicago,BM
+860,Haiti,Libreville,NO
+861,Serbia and Montenegro,Las Vegas,KH
+862,Norfolk Island,Lima,MX
+863,Uzbekistan,Havana,EE
+864,Panama,Qingdao,CV
+865,Central African Republic,Manama,BZ
+866,Bosnia and Herzegovina,Salt Lake City,KZ
+867,Syrian Arab Republic,Las Palmas de Gran Canaria,SZ
+868,Djibouti,Miami,TR
+869,Russian Federation,Handan,IT
+870,Kyrgyzstan,Xi'an,AR
+871,Bhutan,Zagreb,PY
+872,Palau,Islamabad,KG
+873,Jersey,Kota Bharu,NZ
+874,Sudan,Guangzhou,CF
+875,United States Minor Outlying Islands,Dongguan,GE
+876,Kazakhstan,Harbin,LI
+877,Cambodia,Chittagong,GP
+878,AndorrA,Cayenne,GF
+879,Jordan,Luanda,BA
+880,"Virgin Islands, British",Cardiff,HK
+881,South Georgia and the South Sandwich Islands,Rawalpindi,MM
+882,Vanuatu,Detroit,BE
+883,Cuba,Saint-Denis,IR
+884,"Moldova, Republic of",Daegu,TV
+885,"Palestinian Territory, Occupied",Wellington,HT
+886,Greenland,Mbabane,GQ
+887,French Guiana,Sapporo,VC
+888,Ghana,Havana,ST
+889,Turkmenistan,Columbus,SB
+890,Djibouti,Dublin,MN
+891,United States Minor Outlying Islands,Munich,FJ
+892,Bouvet Island,Chişinău,TT
+893,Senegal,Ilhéus,AT
+894,Ireland,Port Moresby,NZ
+895,Guam,Changchun,NI
+896,Cameroon,Makassar,AS
+897,British Indian Ocean Territory,Sri Jayawardenapura-Kotte,BJ
+898,Tunisia,Addis Ababa,JO
+899,Ghana,Yellowknife,EC
+900,"Moldova, Republic of",St. George's,NF
+901,"Taiwan, Province of China",Kaesong,GP
+902,United States Minor Outlying Islands,Maracaibo,MV
+903,Papua New Guinea,Petropavlovsk-Kamchatsky,BD
+904,Costa Rica,Davao City,GH
+905,Liechtenstein,Seville,AD
+906,"Cote D""Ivoire",New York City,BS
+907,Latvia,Tashkent,GW
+908,Switzerland,Buenos Aires,ES
+909,Jersey,Tokyo,AF
+910,"Congo, The Democratic Republic of the",Fairbanks,EG
+911,Japan,Dakar,KP
+912,Costa Rica,Cockburn Town,BZ
+913,Armenia,Amman,NC
+914,"Cote D""Ivoire",Ankara,PE
+915,San Marino,San Francisco,JM
+916,British Indian Ocean Territory,Ho Chi Minh City,YT
+917,Latvia,Shenyang,DE
+918,Brazil,Addis Ababa,BF
+919,Yemen,Willemstad,BW
+920,Jamaica,Shillong,BO
+921,Kenya,Stuttgart,VC
+922,Hungary,Osaka,WS
+923,Bouvet Island,Rosario,AU
+924,"Congo, The Democratic Republic of the",Port Louis,BM
+925,Panama,Adelaide,DK
+926,Heard Island and Mcdonald Islands,Karachi,BE
+927,El Salvador,Maputo,YT
+928,Bangladesh,Saint John,TO
+929,Serbia and Montenegro,Dhaka,HN
+930,Zambia,Norilsk,PT
+931,Christmas Island,Amritsar,VE
+932,Montserrat,Muscat,FI
+933,Heard Island and Mcdonald Islands,Bursa,CG
+934,Uruguay,Ambon,QA
+935,Guyana,Wonsan,AE
+936,Sao Tome and Principe,Newcastle,KR
+937,Tonga,Hobart,UY
+938,Grenada,Saint-Denis,PY
+939,Heard Island and Mcdonald Islands,Milan,GA
+940,Lebanon,Funafuti,AN
+941,Guam,Edmonton,SV
+942,Solomon Islands,Cotonou,CZ
+943,Senegal,Rome,AL
+944,Central African Republic,Mwanza,MU
+945,Bulgaria,Brisbane,FR
+946,"Congo, The Democratic Republic of the",Pyongyang,DE
+947,Mali,The Hague,UY
+948,New Caledonia,Luxor,SI
+949,Mozambique,Tallinn,AS
+950,Solomon Islands,Lucknow,GP
+951,Timor-Leste,El Paso,AW
+952,Ukraine,Norilsk,KE
+953,Philippines,Adamstown,RE
+954,Egypt,Stanley,CD
+955,Belarus,Kinshasa,SV
+956,United States,Macapá,MV
+957,Montserrat,Kansas City,UZ
+958,Marshall Islands,Sana'a,DM
+959,Haiti,Nagoya,JP
+960,Egypt,Busan,CA
+961,British Indian Ocean Territory,Baltimore,KG
+962,Mayotte,Rio de Janeiro,AE
+963,Timor-Leste,Luanda,SJ
+964,Samoa,Enugu,TZ
+965,Germany,Barranquilla,LR
+966,Timor-Leste,Ludhiana,KM
+967,Equatorial Guinea,Murmansk,CS
+968,Samoa,Tiraspol,DK
+969,Bouvet Island,South Tarawa,SM
+970,Nepal,Brazzaville,KZ
+971,"Lao People""S Democratic Republic",Cebu City,NO
+972,Christmas Island,Asmara,TD
+973,Liechtenstein,Hangzhou,NC
+974,Chile,Cotonou,MG
+975,Gambia,Dar es Salaam,WF
+976,Guam,Yogyakarta (city),TN
+977,Bermuda,Beijing,DK
+978,Cameroon,Honiara,PS
+979,Grenada,Tegucigalpa,EE
+980,Solomon Islands,Shenyang,BI
+981,Bahamas,Brazzaville,TJ
+982,Hong Kong,Suva,MH
+983,Canada,Mersin,MQ
+984,Malaysia,Gothenburg,VG
+985,Estonia,Manchester,BF
+986,France,Chongqing,AZ
+987,Barbados,Chaguanas,GD
+988,Bulgaria,Lhasa,IL
+989,Lebanon,Horta (Azores),ZM
+990,Saint Helena,Gaborone,AI
+991,Antarctica,Salzburg,DM
+992,Mauritius,Zanzibar City,IM
+993,Togo,Roseau,MV
+994,Cocos (Keeling) Islands,Charlotte,WS
+995,Haiti,Graz,MW
+996,Saint Helena,Patna,BD
+997,Hong Kong,Paris,ST
+998,Holy See (Vatican City State),Minsk,SE
+999,Holy See (Vatican City State),Tokyo,LY
+1000,Angola,Algiers,BN
+1001,United States,Port-au-Prince,MZ
+1002,Benin,Barranquilla,MQ
+1003,Martinique,St. George's,CG
+1004,Qatar,Seattle,AW
+1005,Sao Tome and Principe,Jakarta,TF
+1006,Madagascar,Glasgow,BH
+1007,Samoa,Samara,GY
+1008,Greenland,Guayaquil,CD
+1009,India,Punta Arenas,PS
+1010,Norway,Medan,BB
+1011,Gabon,Vilnius,MQ
+1012,Congo,Porto-Novo,AN
+1013,Egypt,Yellowknife,ST
+1014,Maldives,Rawalpindi,MN
+1015,"Cote D""Ivoire",Port Elizabeth,TO
+1016,Cayman Islands,Kolkata,IM
+1017,Iceland,Nagoya,VA
+1018,Saint Kitts and Nevis,Thessaloniki,AT
+1019,Isle of Man,Alexandria,NR
+1020,Marshall Islands,Edmonton,BW
+1021,Solomon Islands,Invercargill,SO
+1022,Saint Pierre and Miquelon,Nagpur,NE
+1023,Guyana,Rabi Island,LT
+1024,Liechtenstein,Bandung,MO
+1025,Tuvalu,Campo Grande,MV
+1026,Hong Kong,Yogyakarta (city),AI
+1027,AndorrA,Funafuti,LR
+1028,Central African Republic,Kunming,AF
+1029,Romania,Santiago de Cuba,SE
+1030,"Taiwan, Province of China",Prague,BN
+1031,Colombia,Jerusalem,EE
+1032,Grenada,Melbourne,CL
+1033,Heard Island and Mcdonald Islands,Jerusalem,SI
+1034,Chad,Sarajevo,CF
+1035,Niue,Kyoto,NP
+1036,Guinea,Longyearbyen,IQ
+1037,Falkland Islands (Malvinas),Málaga,PS
+1038,Ethiopia,El Paso,SD
+1039,French Guiana,Gaziantep,PS
+1040,Sierra Leone,Málaga,PF
+1041,Colombia,Douglas,WF
+1042,Mauritius,Taipei,GU
+1043,Malaysia,İzmir,TW
+1044,Austria,San Carlos de Bariloche,CR
+1045,Comoros,Pretoria,KN
+1046,Gabon,Kandy,GN
+1047,Saint Pierre and Miquelon,City of Halifax,JO
+1048,Bermuda,Banda Aceh,GG
+1049,Bermuda,Yaoundé,IS
+1050,Malta,Shenzhen,DJ
+1051,Tunisia,Honolulu,CU
+1052,Fiji,Shenzhen,GS
+1053,Namibia,Managua,QA
+1054,Angola,Albuquerque,CK
+1055,Solomon Islands,Porto-Novo,KR
+1056,Haiti,Malmö,EG
+1057,Christmas Island,Medellín,CD
+1058,Falkland Islands (Malvinas),Hanga Roa,WF
+1059,Uruguay,Tiraspol,AF
+1060,Iraq,Columbus,NR
+1061,Lebanon,Port Louis,CG
+1062,"Lao People""S Democratic Republic",Zhengzhou,LT
+1063,Honduras,Winnipeg,GS
+1064,Cayman Islands,Chaguanas,TV
+1065,Bahrain,Toronto,GU
+1066,Holy See (Vatican City State),Barranquilla,MA
+1067,Guatemala,Buenos Aires,BA
+1068,Guinea-Bissau,Antwerp,PL
+1069,Nauru,Ankara,AI
+1070,Dominican Republic,Nassau,PE
+1071,Nicaragua,Aarhus,MU
+1072,Togo,Pago Pago,HR
+1073,"Virgin Islands, U.S.",Nanjing,MD
+1074,Tuvalu,Kandy,DO
+1075,Colombia,Bujumbura,JP
+1076,Viet Nam,Campo Grande,DK
+1077,Panama,Chihuahua,RU
+1078,French Southern Territories,Hamilton,EE
+1079,"Congo, The Democratic Republic of the",Regina,GY
+1080,Cuba,Nouméa,NO
+1081,Marshall Islands,Chongjin,MV
+1082,Tokelau,Stepanakert,FK
+1083,French Southern Territories,Indianapolis,BT
+1084,Georgia,Bratsk,ID
+1085,Christmas Island,Liverpool,TZ
+1086,"Palestinian Territory, Occupied",Geelong,JE
+1087,Guernsey,Luxembourg (city),BR
+1088,Kyrgyzstan,Kano,BR
+1089,Aruba,Bahía Blanca,IT
+1090,Western Sahara,Timbuktu,HU
+1091,Netherlands,Blantyre,GI
+1092,Australia,Monterrey,TG
+1093,Gibraltar,Valdivia,AI
+1094,"Cote D""Ivoire",San Salvador,SG
+1095,Venezuela,Port Elizabeth,KG
+1096,Romania,Vancouver,VG
+1097,Cayman Islands,Berlin,IQ
+1098,Indonesia,Medina,ZW
+1099,Sri Lanka,Munich,CU
